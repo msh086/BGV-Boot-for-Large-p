@@ -1,3 +1,6 @@
+## An updated implementation is available
+See https://github.com/msh086/bgv-bootstrapping-with-homomorphic-NTT for an updated implementation with more optimizations.
+
 ## Building
 First clone HElib with git.
 ```shell
